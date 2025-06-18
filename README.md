@@ -9,4 +9,4 @@ Cloud-Native CI/CD Pipeline for NodeJS application using AWS services.
 8️⃣ IAM Roles & Security Groups: Define permissions and secure deployment with restricted access. 
 9️⃣ AWS S3 (Artifacts Storage): Stores build artifacts like buildspec.yml. 
 🔟 Deployment Automation: Ensures efficient, scalable, and repeatable software delivery.
-Danks
+Danks.
